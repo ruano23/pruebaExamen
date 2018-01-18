@@ -14,6 +14,6 @@ jdk:
 notifications:
   email:
     recipients:
-      - luigarrod3@alum.us.es
+      - carruaenr@alum.us.es
     on_success: change # default: change
     on_failure: change # default: always
