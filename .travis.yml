@@ -1,7 +1,8 @@
 language: java
-matrix:
-  include:
-	- oraclejdk8
+jdk:
+  - oraclejdk8﻿
+  - oraclejdk7
+
 notifications:
   email:
     - one@example.com
