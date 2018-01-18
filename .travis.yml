@@ -8,4 +8,7 @@ matrix:
 
 notifications:
   email:
-    - one@example.com
+    recipients:
+      - juahueceb1@alum.us.es
+    on_success: change # default: change
+    on_failure: change # default: always
