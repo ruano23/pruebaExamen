@@ -9,6 +9,6 @@ matrix:
 notifications:
   email:
     recipients:
-      - albgomceb@alum.us.es
+      - crigalbla@alum.us.es
     on_success: change # default: change
     on_failure: change # default: always
